@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Xz</title>
+    <link rel="stylesheet" href="index2.css">
+</head>
+<body>
+
+    <ul>
+     <li><a href="https://app.schoology.com/assignment/2277862777/info">lol</a></li>
+     <li><a href="https://app.schoology.com/assignment/2277862777/info">xax</a></li>
+     <li><a href="https://app.schoology.com/assignment/2277862777/info">sss</a></li>
+     <li><a href="https://app.schoology.com/assignment/2277862777/info">EEEEE</a></li>
+   </ul>   
+
+
+   <ul>
+       <li><a href="">text1</a></li>
+       <li><a href="">text2</a></li>
+       <li><a href="">text3</a></li>
+       <li><a href="">text4</a></li>
+   </ul>
+
+   <div class="outer-box">
+   <div class="inner-box">
+   <div>
+       <img src="https://pochemy-nelzya.info/wp-content/uploads/2016/04/67.jpg"width="300px"height="300px"    alt="s">
+       <p>text</p>
+       <h2>heder</h2>
+       <p>lorem</p>
+   </div>
+</div>  
+</div>
+   <div class="outer-box">
+   <div class="inner-box">
+   <div>
+       <img src="https://www.meme-arsenal.com/memes/6ee0c14aa423d3ac878b04577d9c47e7.jpg"width="300px"height="300px"   alt="z">
+       <p>text</p>
+       <h2>heder</h2>
+       <p>lorem</p>
+   </div>
+</div>  
+</div>
+   <div class="outer-box">
+   <div class="inner-box">
+   <div>
+       <img src="https://aftershock.news/sites/default/files/u14368/teasers/i5Jpblamwek%5B1%5D.jpg"width="300px"height="300px"   alt="l">
+       <p>text</p>
+       <h2>heder</h2>
+       <p>lorem</p>
+   </div>
+</div>  
+</div>
+   <div class="outer-box">
+   <div class="inner-box">
+   <div>
+       <img src="https://cs5.pikabu.ru/post_img/2014/05/26/8/1401104797_372116723.jpg"width="300px"height="300px"   alt="Q">
+       <p>text</p>
+       <h2>heder</h2>
+       <p>lorem</p>
+   </div>
+</div>  
+</div>
+   <div class="outer-box">
+   <div class="inner-box">
+   <div>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ84eThDWO-RUfkoOYNNYJMXs1TXlPe1eOwIMaLM8Vei4iWvxs2MQ&s"width="300px" height="300px"  alt="ZZ">
+       <p>text</p>
+       <h2>heder</h2>
+       <p>lorem</p>
+   </div>
+</div>  
+</div>
+  
+</body>
+</html>
