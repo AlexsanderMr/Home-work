@@ -1,74 +1,42 @@
-.block {
-
+.p{
+    
+    display:inline;
+}
+.div1{
+display: inline-block;
+background-color: rgb(104, 104, 104);
+width: 48%;
+}
+.div2{
     display: inline-block;
-    width: 30%;
-    margin-right: 25px;
-    margin-top: 10px;
-    padding: 20px;
-  
-}
-a { 
-    text-decoration: none;
-}
-.block img {
-    object-fit: cover;
-    max-width: 100%;
-   
-}
-.button{
-    font-size: 20px;
-line-height: 24px;
-color: #626262;
-font-family: "Playfair Display";
-font-weight: 400;
-
-}
-.h2{
-    width: 420px;
-    height: 95px;
-    font-size: 30px;
-    color: #626262;
-    font-family: "Playfair Display";
-    font-weight: 400;
-  
-}
-.p2{
-    width: 408px;
-    height: 25px;
-    font-size: 14px;
-    color: #b4ad9e;
-    font-family: "Ubuntu";
-    font-weight: 300;    
-   
-}
-.p1{
-    width: 420px;
-height: 78px;
-font-size: 14px;
-line-height: 24px;
-color: #626262;
-font-family: "Playfair Display";
-font-weight: 400;
-}
-.menu1{
-    display: inline-block;
-    width: 113px;
-height: 42px;
-font-size: 14px;
-line-height: 24px;
-color: #03a9f4;
-font-family: "Playfair Display";
-font-weight: 400;
-text-align: center;
-}
-.menu2{
-    display: inline-block;
-    width: 113px;
-    height: 42px;
-    font-size: 14px;
-    line-height: 24px;
-    color: #626262;
-    font-family: "Playfair Display";
-    font-weight: 400;
-    text-align: center;
-}
+    background-color: blue;
+    width: 48%;
+    }
+    .heder{
+width: 100%;
+height: 200px;
+background-color: rgb(110, 110, 110);
+    }
+    .navigation{
+width: 100%;
+height: 200px;
+background-color: rgb(110, 110, 110);
+    }
+    .content{
+width: 69%;
+height: 700px;
+display: inline-block;
+background-color: rgb(0, 238, 255);
+    }
+    .sidebar{
+width: 30%;
+height: 700px;
+display: inline-block;
+background-color: rgb(0, 238, 255);
+    }
+    .footer{
+width: 100%;
+height: 200px;
+background-color: black;
+color: white;
+    }
